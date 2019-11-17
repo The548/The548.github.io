@@ -13,7 +13,7 @@
       color: #FFFFFF;
       }
       #first-thing{
-      color: #FF0000;
+      color: green;
       
       }
     </style>
