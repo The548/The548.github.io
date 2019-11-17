@@ -16,5 +16,9 @@
   </head>
   <body>
     <h1>The Website Learner Area</h1>
+    <script>
+      var Ntext = getElementsByTagName('body');
+      body.innerHTML = "In Progress";
+    </script>
   </body>
   </html>
