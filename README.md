@@ -9,7 +9,7 @@
       text-align: center;
       color: #FFFFFF;
       }
-      #first-thing{
+      h4{
       color: green;
       
       }
@@ -18,6 +18,6 @@
   <body>
     <h1>The Website Learner Area</h1>
     <h1>In Progress</h1>
-    <h4 onclick="alert('We use this on the top of EVERY WEBSITE.')" value="<!DOCTYPE html>" id="first-thing"></h4>
+    <h4 onclick="alert('We use this on the top of EVERY WEBSITE.')" value="<!DOCTYPE html>"></h4>
   </body>
   </html>
