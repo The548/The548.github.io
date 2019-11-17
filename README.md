@@ -12,11 +12,15 @@
       text-align: center;
       color: #FFFFFF;
       }
+      #first-thing{
+      color: #FF0000;
+      
+      }
     </style>
   </head>
   <body>
     <h1>The Website Learner Area</h1>
     <h1>In Progress</h1>
-    <h4 onclick="alert('We use this on the top of EVERY WEBSITE.')" value="<!DOCTYPE html>"></h4>
+    <h4 onclick="alert('We use this on the top of EVERY WEBSITE.')" value="<!DOCTYPE html>" id="first-thing"></h4>
   </body>
   </html>
